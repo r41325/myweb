@@ -1,0 +1,12 @@
+body{
+   text-align: center;
+}
+.btn{
+  border: dashed 1px black;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  font-size: 30px;
+  color: #ffffff;
+  background-color: #000000;
+}
